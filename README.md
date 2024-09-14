@@ -262,6 +262,6 @@ See more: [https://shields.io/](https://shields.io/)
 
 :page_facing_up: [Wikipedia - Markdown](https://pt.wikipedia.org/wiki/Markdown)
 
-:page_facing_up: [Oficial](https://daringfireball.net/projects/markdown/)
+:page_facing_up: [Official](https://daringfireball.net/projects/markdown/)
 
 
